@@ -1,22 +1,6 @@
 {
   "products": [
-    {
-      "id": "1",
-      "name": "Syltherine",
-      "category": "Living Room",
-      "price": 2950,
-      "oldPrice": 3800,
-      "description": "Syltherine, modern ve minimalist tasarımıyla öne çıkan şık bir sandalyedir. Oturma odanızda veya çalışma alanınızda konfor ve estetiği bir araya getirir.",
-      "images": [
-        "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?q=80&w=1965&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1551291295-d317b21e4e04?q=80&w=1974&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1617103995292-6936938997a4?q=80&w=1964&auto=format&fit=crop"
-      ],
-      "isNew": true,
-      "discount": 30,
-      "sku": "SS001",
-      "tags": ["Chair", "Home", "Living Room"]
-    },
+  
     {
       "id": "2",
       "name": "Leviosa",
@@ -158,4 +142,5 @@
       "content": "Küçük bir evde yaşamak, stilden ödün vermeniz gerektiği anlamına gelmez. Doğru mobilya ve aksesuarlarla küçük alanları hem ferah hem de işlevsel hale getirebilirsiniz. Bu yazımızda, size ilham verecek pratik fikirler sunuyoruz..."
     }
   ]
+
 }
