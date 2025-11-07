@@ -279,8 +279,10 @@
     "oldPrice": 0,
     "description": "UV korumalı sentetik rattan, yıkanabilir minderli 3 parçalı set.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1555041469-8699ae041e1b?q=80&w=2070&auto=format&fit=crop", "alt": "Rattan set 1" },
-      { "id": 2, "url": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=2070&auto=format&fit=crop", "alt": "Rattan set 2" }
+      {"id": 1,"url": "https://images.unsplash.com/photo-1759722665606-3be48960d3a3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bG91bmdlJTIwc2V0fGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"},
+      {"id": 2,"url": "https://images.unsplash.com/photo-1598299827130-5aa1d5149c8d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGxvdW5nZSUyMHNldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"},
+      {"id": 3,"url": "https://images.unsplash.com/photo-1698373890183-ae3943362fda?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGxvdW5nZSUyMHNldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"},
+      {"id": 4,"url": "https://images.unsplash.com/photo-1699108969289-ee5978cf4fe6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGxvdW5nZSUyMHNldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"}
     ],
     "isNew": false,
     "discount": 0,
@@ -300,7 +302,10 @@
     "oldPrice": 0,
     "description": "Yumuşak dokulu, leke tutmaz halı; 160×230 cm.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1555041469-2323bc83176d?q=80&w=2070&auto=format&fit=crop", "alt": "Halı" }
+     { "id": 1, "url": "https://images.unsplash.com/photo-1534889156217-d643df14f14a" }
+      { "id": 2, "url": "https://images.unsplash.com/photo-1608724553456-89e963624dbb" }
+      { "id": 3, "url": "https://images.unsplash.com/photo-1616047006789-b7af5afb8c20" }
+      { "id": 4, "url": "https://images.unsplash.com/photo-1572123979839-3749e9973aba" }
     ],
     "isNew": true,
     "discount": 0,
@@ -320,8 +325,10 @@
     "oldPrice": 5200,
     "description": "Modüler metal çerçeveli, masif raflı kitaplık.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?q=80&w=1974&auto=format&fit=crop", "alt": "Kitaplık 1" },
-      { "id": 2, "url": "https://images.unsplash.com/photo-1490929118050-151c3f0e2ccf?q=80&w=1974&auto=format&fit=crop", "alt": "Kitaplık 2" }
+      { "id": 1, "url": "https://plus.unsplash.com/premium_photo-1683134241832-6066d2ebe7a3" }
+      { "id": 2, "url": "https://images.unsplash.com/photo-1615884241431-d07c87e30ab2" }
+      { "id": 3, "url": "https://images.unsplash.com/photo-1515542706656-8e6ef17a1521" }
+      { "id": 4, "url": "https://images.unsplash.com/photo-1543248939-4296e1fea89b" }
     ],
     "isNew": false,
     "discount": 12,
@@ -341,8 +348,11 @@
     "oldPrice": 0,
     "description": "Masif çam gövdeli, başlığı kumaş kaplı çift kişilik karyola.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1974&auto=format&fit=crop", "alt": "Karyola 1" },
-      { "id": 2, "url": "https://images.unsplash.com/photo-1495733715281-7cf71a079fa1?q=80&w=1974&auto=format&fit=crop", "alt": "Karyola 2" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2" }
+    { "id": 2, "url": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85" }
+    { "id": 3, "url": "https://images.unsplash.com/photo-1552858725-2758b5fb1286" }
+    { "id": 4, "url": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af" }
+    { "id": 5, "url": "https://plus.unsplash.com/premium_photo-1671269705768-cad27668134c" }
     ],
     "isNew": false,
     "discount": 0,
@@ -362,7 +372,10 @@
     "oldPrice": 0,
     "description": "Organik formlu, çizilmeye dayanıklı yüzeye sahip orta sehpa.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1520880867055-1e30d1cb001c?q=80&w=1974&auto=format&fit=crop", "alt": "Orta sehpa" }
+      { "id": 1, "url": "https://plus.unsplash.com/premium_photo-1664193968861-5d23c7652008" }
+    { "id": 2, "url": "https://images.unsplash.com/photo-1601276861758-2d9c5ca69a17" }
+    { "id": 3, "url": "https://images.unsplash.com/photo-1581428982868-e410dd047a90" }
+    { "id": 4, "url": "https://images.unsplash.com/photo-1605774337664-7a846e9cdf17" }
     ],
     "isNew": true,
     "discount": 0,
@@ -382,7 +395,10 @@
     "oldPrice": 7200,
     "description": "Ayak uzatma mekanizmalı, yumuşak dolgulu tekli koltuk.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1974&auto=format&fit=crop", "alt": "Tekli koltuk" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1707848106960-74e1b223297b" }
+    { "id": 2, "url": "https://images.unsplash.com/photo-1464288550599-43d5a73451b8" }
+    { "id": 3, "url": "https://plus.unsplash.com/premium_photo-1673125287024-c6edab262607" }
+    { "id": 4, "url": "https://plus.unsplash.com/premium_photo-1674574585307-d24795c9d5b2" }
     ],
     "isNew": false,
     "discount": 8,
@@ -402,7 +418,10 @@
     "oldPrice": 0,
     "description": "Mutfak adaları için ideal, ayak destekli bar taburesi.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1558211583-d26f610c87f3?q=80&w=1974&auto=format&fit=crop", "alt": "Bar taburesi" }
+     { "id": 1, "url": "https://images.unsplash.com/photo-1647379276613-3b98fe23ee9a" }
+    { "id": 2, "url": "https://images.unsplash.com/photo-1761471857679-ffe51b471af0" }
+    { "id": 3, "url": "https://plus.unsplash.com/premium_photo-1661962720375-ce9097fb4d69" }
+    { "id": 4, "url": "https://plus.unsplash.com/premium_photo-1675537857054-8c7e518553af" }
     ],
     "isNew": true,
     "discount": 0,
@@ -422,7 +441,11 @@
     "oldPrice": 0,
     "description": "Mat metal gövdeli, ayarlanabilir yükseklikli sarkıt lamba.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?q=80&w=1974&auto=format&fit=crop", "alt": "Sarkıt lamba" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89" }
+      { "id": 2, "url": "https://images.unsplash.com/photo-1540932239986-30128078f3c5" }
+      { "id": 3, "url": "https://plus.unsplash.com/premium_photo-1705582800047-1aacf1e0f0ba" }
+      { "id": 4, "url": "https://images.unsplash.com/photo-1592622515232-6e3e2a0d3d9a" }
+      { "id": 5, "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15" }
     ],
     "isNew": false,
     "discount": 0,
@@ -442,8 +465,11 @@
     "oldPrice": 4300,
     "description": "Dar alanlar için katlanabilir, kablo yönetimli çalışma masası.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1974&auto=format&fit=crop", "alt": "Çalışma masası 1" },
-      { "id": 2, "url": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?q=80&w=1974&auto=format&fit=crop", "alt": "Çalışma masası 2" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1609959914649-af7984c5b47f" }
+      { "id": 2, "url": "https://images.unsplash.com/photo-1522591755584-8ef01cdf743b" }
+      { "id": 3, "url": "https://images.unsplash.com/photo-1623679072629-3aaa0192a391" }
+      { "id": 4, "url": "https://plus.unsplash.com/premium_photo-1683326528070-4ebec9188ae1" }
+      { "id": 5, "url": "https://images.unsplash.com/photo-1599502452965-df0824971bb2" }
     ],
     "isNew": false,
     "discount": 12,
@@ -463,7 +489,11 @@
     "oldPrice": 0,
     "description": "Yumuşak kapanır raylı, 6 çekmeceli şifonyer.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1616593963514-3e05c61990f9?q=80&w=1974&auto=format&fit=crop", "alt": "Şifonyer" }
+      { "id": 1, "url": "https://plus.unsplash.com/premium_photo-1683129641904-708b4803689d" },
+      { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1683141318297-75a3d8e86476" },
+      { "id": 3, "url": "https://images.unsplash.com/photo-1690310588492-fc8f92bff323" },
+      { "id": 4, "url": "https://images.unsplash.com/photo-1603112089080-3ef8f7bb9dcf" },
+      { "id": 5, "url": "https://images.unsplash.com/photo-1719035271030-c4f941639aaf" }
     ],
     "isNew": true,
     "discount": 0,
@@ -483,7 +513,11 @@
     "oldPrice": 9600,
     "description": "Tam boy aynalı, doğal sedir kaplamalı gardırop.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1616593963798-ff3d9c2f12a7?q=80&w=1974&auto=format&fit=crop", "alt": "Gardırop" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1672137233327-37b0c1049e77" }
+      { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1670076515866-73822a3d610d" }
+      { "id": 3, "url": "https://images.unsplash.com/photo-1611048268330-53de574cae3b" }
+      { "id": 4, "url": "https://images.unsplash.com/photo-1631889993877-71e193bf79b8" }
+      { "id": 5, "url": "https://images.unsplash.com/photo-1643949914877-b20f30792c1e" }
     ],
     "isNew": false,
     "discount": 7,
@@ -503,7 +537,10 @@
     "oldPrice": 0,
     "description": "Farklı boylarda 3’lü seramik saksı seti, drenaj delikli.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1523419409543-a7c87f1f7c33?q=80&w=1974&auto=format&fit=crop", "alt": "Saksı seti" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1692719968175-fa5d03b10557" }
+      { "id": 2, "url": "https://images.unsplash.com/photo-1642604159027-dccf0970695b" }
+      { "id": 3, "url": "https://images.unsplash.com/photo-1581829479168-6b31ca683b8a" }
+      { "id": 4, "url": "https://images.unsplash.com/photo-1610232603071-0070518c79d7" }
     ],
     "isNew": true,
     "discount": 0,
@@ -523,8 +560,10 @@
     "oldPrice": 4700,
     "description": "Dış mekâna uygun koruyucu cilalı, 2 kişilik ahşap bank.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1496302662116-25b4efad5f04?q=80&w=1974&auto=format&fit=crop", "alt": "Ahşap bank 1" },
-      { "id": 2, "url": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1974&auto=format&fit=crop", "alt": "Ahşap bank 2" }
+    { "id": 1, "url": "https://images.unsplash.com/photo-1445937888010-cc262f556033" }
+    { "id": 2, "url": "https://images.unsplash.com/photo-1535385793343-27dff1413c5a" }
+    { "id": 3, "url": "https://images.unsplash.com/photo-1762294676469-eada5efba0c8" }
+    { "id": 4, "url": "https://images.unsplash.com/photo-1624929300439-03a546ac819e" }
     ],
     "isNew": false,
     "discount": 13,
@@ -538,3 +577,4 @@
   }
 ]
 }
+
