@@ -537,36 +537,91 @@
     ]
   }
 ],
-  "blogs": [
+ "blogs": [
     {
       "id": 1,
-      "title": "Oturma Odanız İçin Mükemmel Kanepeyi Seçme Rehberi",
+      "title": "Ahşap Dokularla Sıcak Bir Ev Atmosferi",
       "author": "Elif Kaya",
       "date": "2025-10-15",
-      "category": "Tasarım İpuçları",
-      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=2070&auto=format&fit=crop",
-      "content": "Bir oturma odasının kalbi şüphesiz kanepesidir. Hem konforlu hem de şık bir kanepe seçmek, mekanın tüm atmosferini değiştirebilir. Bu yazıda, doğru kanepeyi seçerken dikkat etmeniz gereken boyut, kumaş, stil ve renk gibi önemli faktörleri ele alacağız..."
+      "category": "Wood",
+      "image": "https://images.unsplash.com/photo-1697809899844-24bb7de99a2c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+      "content": "Doğal ahşap yüzeyler, yaşam alanlarına sıcaklık ve karakter katar. Bu yazıda masif, lamine ve kaplama seçeneklerinin farklarını; vernik, yağ ve wax gibi bitişlerin kullanımını; bakım ipuçlarını ve hangi odada hangi tür ahşabın daha uygun olduğunu anlatıyoruz..."
     },
     {
       "id": 2,
-      "title": "2025 Yılının Yükselen İç Mekan Tasarım Trendleri",
+      "title": "Minimal Tasarımın 5 Altın Kuralı",
       "author": "Ahmet Vural",
-      "date": "2025-09-28",
-      "category": "Trendler",
-      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?q=80&w=2127&auto=format&fit=crop",
-      "content": "Her yıl olduğu gibi bu yıl da iç mekan tasarım dünyasında yeni ve heyecan verici trendler ortaya çıkıyor. Sürdürülebilir materyaller, cesur renk paletleri ve çok fonksiyonlu mobilyalar 2025'in öne çıkanları arasında. Gelin bu trendlere daha yakından bakalım..."
+      "date": "2025-10-02",
+      "category": "Design",
+      "image": "https://images.unsplash.com/photo-1705321963943-de94bb3f0dd3?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWluaW1hbGlzdCUyMGxpdmluZyUyMHJvb218ZW58MHx8MHx8fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "content": "Minimalizm sadece az eşya demek değildir; işlev, oran ve ritmin dengeli bir bileşimidir. Boşluk yönetimi, tipografi, renk kontrastı, ritim ve hiyerarşi ile evinizde yalın ama güçlü bir tasarım dili kurmanın yollarını paylaşıyoruz..."
     },
     {
       "id": 3,
-      "title": "Küçük Alanlar İçin Akıllı Dekorasyon Fikirleri",
+      "title": "Elde Yapım Seramiklerle Sofranıza Karakter Katın",
       "author": "Zeynep Aydın",
-      "date": "2025-09-12",
-      "category": "Pratik Çözümler",
-      "image": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?q=80&w=2070&auto=format&fit=crop",
-      "content": "Küçük bir evde yaşamak, stilden ödün vermeniz gerektiği anlamına gelmez. Doğru mobilya ve aksesuarlarla küçük alanları hem ferah hem de işlevsel hale getirebilirsiniz. Bu yazımızda, size ilham verecek pratik fikirler sunuyoruz..."
+      "date": "2025-09-27",
+      "category": "Handmade",
+      "image": "https://images.unsplash.com/photo-1740478949627-155c907b3ca0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1503",
+      "content": "El yapımı seramikler her parçada küçük kusurlar ve özgün dokular barındırır. Bu farklılıklar sofranıza sıcaklık ve hikâye taşır. Kil seçimi, sır türleri ve fırınlama aşamalarını basitçe açıklıyor; kombin önerileri veriyoruz..."
+    },
+    {
+      "id": 4,
+      "title": "Küçük Salonlar İçin Akıllı Yerleşim Rehberi",
+      "author": "Mert Demir",
+      "date": "2025-09-18",
+      "category": "Interior",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1380",
+      "content": "Küçük metrekarelerde ferahlık için doğru ölçek ve dolaşım çok kritik. Mobilya yerleşim şemaları, aydınlatma katmanları ve çok amaçlı parçalarla hem işlevsel hem de estetik bir salon kurgulamanın püf noktalarını derledik..."
+    },
+    {
+      "id": 5,
+      "title": "Geri Dönüşümle Yaratıcı DIY Ahşap Projeleri",
+      "author": "Burcu Aksoy",
+      "date": "2025-09-07",
+      "category": "Crafts",
+      "image": "https://images.unsplash.com/photo-1759523146335-0069847ceb16?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1469",
+      "content": "Eski paletler, kasa ve kütükleri değerlendirmek hem çevreci hem de ekonomik. Basit el aletleriyle yapılabilecek raf, sehpa ve duvar paneli projelerini adım adım anlatıyor; güvenlik ve yüzey bitirme önerileri paylaşıyoruz..."
+    },
+    {
+      "id": 6,
+      "title": "Renk Paleti Seçerken Yapılan 7 Yaygın Hata",
+      "author": "Selin Arda",
+      "date": "2025-08-30",
+      "category": "Design",
+      "image": "https://images.unsplash.com/photo-1631127887321-0a2cf902a002?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+      "content": "Doygunluk fazlalığı, yanlış gri alt tonları ve ışık koşullarını göz ardı etmek en sık hatalar. Renk test kartlarını doğru okuma, gün ışığı-suni ışık farkı ve 60-30-10 kuralıyla dengeli kombinler oluşturmanın yollarını inceliyoruz..."
+    },
+    {
+      "id": 7,
+      "title": "El Örgüsü Tekstillerle Mevsim Geçişi Dekoru",
+      "author": "Eda Çelik",
+      "date": "2025-08-21",
+      "category": "Handmade",
+      "image": "https://images.unsplash.com/photo-1674475760738-8c7af859f821?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1470",
+      "content": "Makrome, örgü battaniye ve el dokuması kırlentler mevsim geçişlerinde konforu artırır. İplik seçiminden ilmek yoğunluğuna, bakım ve saklama ipuçlarına kadar pratik öneriler paylaşıyoruz..."
+    },
+    {
+      "id": 8,
+      "title": "Aydınlatma Katmanları: Ortam, Görev ve Vurgu",
+      "author": "Kerem Yalçın",
+      "date": "2025-08-10",
+      "category": "Interior",
+      "image": "https://images.unsplash.com/photo-1760977817633-86910d0dfe3d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1381",
+      "content": "İyi bir iç mekân deneyimi için tek bir avize yetmez. Ortam, görev ve vurgu aydınlatmasını dengeleyerek göz konforu ve atmosferi nasıl iyileştireceğinizi; kelvin değeri ve lümen seçiminin pratik yollarını anlatıyoruz..."
+    },
+    {
+      "id": 9,
+      "title": "Masif Meşe Yemek Masası: Satın Alma ve Bakım",
+      "author": "Onur Karaca",
+      "date": "2025-07-29",
+      "category": "Wood",
+      "image": "https://images.unsplash.com/photo-1729603369774-23019dbf6c9c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1469",
+      "content": "Masif meşe uzun ömürlüdür fakat doğru bakım ister. Nem dengesi, yüzey yağlama sıklığı ve ısıdan koruma gibi kritik noktaları; çizik ve leke giderme için uygulanabilir çözümleri paylaşıyoruz..."
     }
   ]
 
 }
+
 
 
