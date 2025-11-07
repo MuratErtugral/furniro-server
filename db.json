@@ -23,7 +23,7 @@
       { "name": "Purple", "hexCode": "#9370DB" },
       { "name": "Black", "hexCode": "#1E1E1E" },
       { "name": "Gold", "hexCode": "#B8860B" }
-    ],
+    ]
   },
   {
     "id": "2",
@@ -182,10 +182,10 @@
     "oldPrice": 9200,
     "description": "Masif meşe yüzeye sahip, çizilmeye dayanıklı, 6 kişilik yemek masası.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1583845112239-97ef1341b271?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 2, "url": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 3, "url": "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 4, "url": "https://images.unsplash.com/photo-1636138389529-d35a2a348dc1?auto=format&fit=crop&w=1000&q=80" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1583845112239-97ef1341b271?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 2, "url": "https://images.unsplash.com/photo-1577140917170-285929fb55b7?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 3, "url": "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 4, "url": "https://images.unsplash.com/photo-1636138389529-d35a2a348dc1?auto=format&fit=crop&w=1000&q=80" },
       { "id": 5, "url": "https://images.unsplash.com/photo-1627992491080-793188b1cf1c?auto=format&fit=crop&w=1000&q=80" }
     ],
     "isNew": true,
@@ -206,10 +206,10 @@
     "oldPrice": 0,
     "description": "Minimal çizgilere sahip, yumuşak kapanır çekmeceli komodin.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1593194632872-3d19dab6e278?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1676823570572-966ea4c0e333?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 3, "url": "https://plus.unsplash.com/premium_photo-1670359039163-0ca43c83f49b?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 4, "url": "https://images.unsplash.com/photo-1611665860244-43cc95fa586e?auto=format&fit=crop&w=1000&q=80" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1593194632872-3d19dab6e278?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1676823570572-966ea4c0e333?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 3, "url": "https://plus.unsplash.com/premium_photo-1670359039163-0ca43c83f49b?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 4, "url": "https://images.unsplash.com/photo-1611665860244-43cc95fa586e?auto=format&fit=crop&w=1000&q=80" },
       { "id": 5, "url": "https://images.unsplash.com/photo-1625479968533-de325eb299a4?auto=format&fit=crop&w=1000&q=80" }
 
     ],
@@ -231,10 +231,10 @@
     "oldPrice": 2100,
     "description": "Sıcak ışık yayan kumaş şapkalı, metal gövdeli yer lambası.",
     "images": [
-      { "id": 1, "url": "https://images.unsplash.com/photo-1606425288528-4cebbfc69de7?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 2, "url": "https://images.unsplash.com/photo-1566386429501-fe1523f35f40?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 3, "url": "https://images.unsplash.com/photo-1640132219022-e7a98b4c92e9?auto=format&fit=crop&w=1000&q=80" }
-      { "id": 4, "url": "https://plus.unsplash.com/premium_photo-1733514433474-e91aeaed25fa?auto=format&fit=crop&w=1000&q=80" }
+      { "id": 1, "url": "https://images.unsplash.com/photo-1606425288528-4cebbfc69de7?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 2, "url": "https://images.unsplash.com/photo-1566386429501-fe1523f35f40?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 3, "url": "https://images.unsplash.com/photo-1640132219022-e7a98b4c92e9?auto=format&fit=crop&w=1000&q=80" },
+      { "id": 4, "url": "https://plus.unsplash.com/premium_photo-1733514433474-e91aeaed25fa?auto=format&fit=crop&w=1000&q=80" },
       { "id": 5, "url": "https://images.unsplash.com/photo-1743578666060-49a1747d61df?auto=format&fit=crop&w=1000&q=80" }
     ],
     "isNew": false,
@@ -255,10 +255,10 @@
     "oldPrice": 5400,
     "description": "Bel desteği ayarlanabilir, nefes alan file sırtlı ofis sandalyesi.",
     "images": [
-     { "id": 1, "url": "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?auto=format&fit=crop&w=1000&q=80" }
-    { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1674049760153-144f4dc9208c?auto=format&fit=crop&w=1000&q=80" }
-    { "id": 3, "url": "https://images.unsplash.com/photo-1572521165329-b197f9ea3da6?auto=format&fit=crop&w=1000&q=80" }
-    { "id": 4, "url": "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=1000&q=80" }
+     { "id": 1, "url": "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?auto=format&fit=crop&w=1000&q=80" },
+    { "id": 2, "url": "https://plus.unsplash.com/premium_photo-1674049760153-144f4dc9208c?auto=format&fit=crop&w=1000&q=80" },
+    { "id": 3, "url": "https://images.unsplash.com/photo-1572521165329-b197f9ea3da6?auto=format&fit=crop&w=1000&q=80" },
+    { "id": 4, "url": "https://images.unsplash.com/photo-1505797149-43b0069ec26b?auto=format&fit=crop&w=1000&q=80" },
     { "id": 5, "url": "https://images.unsplash.com/photo-1517502884422-41eaead166d4?auto=format&fit=crop&w=1000&q=80" }
     ],
     "isNew": true,
@@ -622,6 +622,7 @@
   ]
 
 }
+
 
 
 
